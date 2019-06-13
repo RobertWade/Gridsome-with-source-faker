@@ -1,0 +1,15 @@
+{
+  "name": "Gridsome with faker.js",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@contentful/rich-text-html-renderer": "^13.1.0",
+    "@gridsome/source-contentful": "^0.3.0",
+    "@gridsome/source-faker": "^0.3.0",
+    "gridsome": "^0.6.0"
+  }
+}
