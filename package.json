@@ -1,5 +1,5 @@
 {
-  "name": "Gridsome with faker.js",
+  "name": "Gridsome-with-source-faker",
   "private": true,
   "scripts": {
     "build": "gridsome build",
